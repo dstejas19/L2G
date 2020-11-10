@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@octokit/rest": "^18.0.5",
+    "axios": "^0.21.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "jsdom": "^16.4.0",
